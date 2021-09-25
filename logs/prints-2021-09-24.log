@@ -1,0 +1,7 @@
+18:43:11.544 [main] INFO  pageObjects.HomePage - Navigation to Homepage: SUCCESS
+18:43:20.284 [main] INFO  pageObjects.HomePage - Extracting discount of the product: SUCCESS
+18:43:20.536 [main] INFO  pageObjects.HomePage - Discount: ?46,236
+18:43:26.196 [main] INFO  pageObjects.HomePage - Navigation to Homepage: SUCCESS
+18:43:34.020 [main] INFO  pageObjects.HomePage - Extracting Price of the product: SUCCESS
+18:43:34.079 [main] INFO  pageObjects.HomePage - Price: ?8,799
+18:43:40.244 [main] INFO  pageObjects.HomePage - Navigation to Homepage: SUCCESS

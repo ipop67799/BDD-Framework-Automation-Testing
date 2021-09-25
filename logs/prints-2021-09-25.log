@@ -1,0 +1,7 @@
+05:45:41.477 [main] INFO  pageObjects.HomePage - Navigation to Homepage: SUCCESS
+05:45:41.712 [main] INFO  pageObjects.HomePage - Extracting CIN: SUCCESS
+05:45:41.881 [main] INFO  pageObjects.HomePage - CIN: CIN: U01100MH1999PLC120563
+05:45:59.367 [main] INFO  pageObjects.HomePage - Navigation to Homepage: SUCCESS
+05:46:13.296 [main] INFO  pageObjects.HomePage - Price: ?11,899
+05:46:19.925 [main] INFO  pageObjects.HomePage - Navigation to Homepage: SUCCESS
+05:46:24.702 [main] INFO  pageObjects.HomePage - Extracting Help Delivery Query Response: SUCCESS
