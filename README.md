@@ -1,4 +1,4 @@
-# Comprehensive-Assessment-BDD
+# BDD Framework
 
 ## Project:
 An automated BDD Cucumber framework for running test scripts and ensuring the software user requirement for a demo client is assured.
